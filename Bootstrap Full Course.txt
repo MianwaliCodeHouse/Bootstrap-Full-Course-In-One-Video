@@ -1,0 +1,34 @@
+
+***___Bootstrap Topic___***
+
+1. What is Bootstrap?
+2. Setup Bootstrap
+
+3. Text-colors and background-colors
+
+4. Headings, Display and Fonts class(size,weight,text decoration)
+
+5. Text-align & Text-transform
+
+6. borders, border-radius & Displays
+
+7. Break-points
+
+8. Containers,width, height and pading, margin
+
+9. Flex Classes ( align, justify , gap, direaction , wrap )
+
+10. Grid Classes ( row , column , gap )
+
+11. Images Classes
+
+12. Cards Classes
+
+13. Buttons Classes
+
+14. Table Classes
+
+15. Form Classes
+
+
+Build a Complete Responsive Website using Bootstrap
